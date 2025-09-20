@@ -65,7 +65,7 @@ The final tuned model, trained on the full training dataset, demonstrated strong
 
 The feature importance plot reveals which factors are most influential in determining a bulldozer's sale price.
 
-![Feature Importance Plot](https://nursing-jade-9zyg5xaobl.edgeone.app/feature-importance.png)
+[![feature-importance.png](https://i.postimg.cc/Wz3wdjnS/feature-importance.png)](https://postimg.cc/N93Hn3Zr)
 
 The top 5 most important features were:
 1.  **YearMade:** The age of the equipment is the single most critical factor.
